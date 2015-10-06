@@ -13,4 +13,6 @@ M (master brunch) --------------------------------------------------------------
 
 3. always delete a branch after merging it into master
 
+4. what is a FF (fast forward)?
+
 
