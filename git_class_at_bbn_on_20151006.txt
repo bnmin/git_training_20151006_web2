@@ -15,4 +15,6 @@ M (master brunch) --------------------------------------------------------------
 
 4. what is a FF (fast forward)?
 
+5. fork-based open-source collaborated software development
 
+6. github, bitbucket, gitlab
